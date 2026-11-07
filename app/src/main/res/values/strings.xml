@@ -21,7 +21,7 @@
 
 	<!-- New About dialog stuff -->
 	<string name="about_links" translatable="false">
-		• <a href="https://discord.gg/bU9v7ndWqb">CS:MOS Discord Support / Community Hub</a>\n
+		• CS:MOS <a href="https://discord.gg/bU9v7ndWqb">Discord Support</a> / <a href="https://discord.gg/jvWYVDMdhs">Community Hub</a>\n
 	</string>
 	<string name="about_authors">
 		<b>Source Engine Android port made by:</b>\n
