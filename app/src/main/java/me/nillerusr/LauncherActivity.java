@@ -26,7 +26,7 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
-import com.mohakun.csmos.R;
+import com.mohakun.cstrike.R;
 import me.sanyasho.util.SharedUtil;
 import su.xash.fwgslib.CertCheck;
 
@@ -34,7 +34,7 @@ public class LauncherActivity extends Activity
 {
 	public static String TAG = "LauncherActivity";
 
-	public static String MOD_NAME = "csmos";
+	public static String MOD_NAME = "cstrike";
 	public static String PKG_NAME;
 
 	static EditText cmdArgs = null, GamePath = null;
@@ -199,7 +199,7 @@ public class LauncherActivity extends Activity
 		{
 			new AlertDialog.Builder( this )
 					.setTitle( R.string.srceng_launcher_error )
-					.setMessage( R.string.csmos_game_check )
+					.setMessage( R.string.cstrike_game_check )
 					.setPositiveButton( R.string.srceng_launcher_ok, null )
 					.show();
 

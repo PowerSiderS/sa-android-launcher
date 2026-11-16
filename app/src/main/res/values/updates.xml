@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="mod_name" translatable="false">CS:MOS</string>
+	<string name="mod_name" translatable="false">Source Advanced</string>
 	<string name="current_commit" translatable="false"></string>
 	<string name="update_url" translatable="false"></string>
-	<string name="csmos_download_url" translatable="false">https://cloud.tyabus.co.uk/s/3q4jsDPR6bAwgmf</string>
+	<string name="cstrike_download_url" translatable="false">https://cloud.tyabus.co.uk/s/3q4jsDPR6bAwgmf</string>
 
 	<string name="default_commandline_arguments" translatable="false">-gameuiproportionality</string>
 	<string name="default_gamedir" translatable="false">/sdcard/srceng</string>
-	<string name="launcher_icon_description" translatable="false">CS:MOS</string>
-	<string name="csmos_version" translatable="false">V8.5</string>
+	<string name="launcher_icon_description" translatable="false">Source Advanced</string>
+	<string name="cstrike_version" translatable="false">V2</string>
 
 	<string name="internal_debug_build_warning" translatable="false">
 		<font color="#ff0000"><b>WARNING!</b> This is a <i>debug</i> build.</font>

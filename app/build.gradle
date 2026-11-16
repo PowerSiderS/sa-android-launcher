@@ -11,7 +11,7 @@ android {
 		disable 'ExpiredTargetSdkVersion'
 	}
 
-	namespace 'com.mohakun.csmos'
+	namespace 'com.mohakun.cstrike'
 	compileSdk 29
 
 	packagingOptions {
@@ -20,14 +20,14 @@ android {
 		}
 	}
 
-	project.ext.set("archivesBaseName", "csmos")
+	project.ext.set("archivesBaseName", "cstrike")
 
 	defaultConfig {
-		applicationId "com.mohakun.csmos"
+		applicationId "com.mohakun.cstrike"
 		minSdk 24
 		targetSdk 29
 		versionCode getBuildNum()
-		versionName "V8.5"
+		versionName "V2"
 	}
 
 	sourceSets {

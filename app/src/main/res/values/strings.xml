@@ -16,23 +16,19 @@
 	<string name="srceng_launcher_error_find_gameinfo">Couldn\'t find game resources. Did you set the path correctly?</string>
 
 	<string name="new_update">Update available!</string>
-	<string name="csmos_game_check">Please, remove \"-game\" from command line arguments.</string>
-	<string name="csmos_bad_device">Sorry, your device is too bad for this game.\nYou can\'t run CS:MOS.</string>
+	<string name="cstrike_game_check">Please, remove \"-game\" from command line arguments.</string>
+	<string name="cstrike_bad_device">Sorry, your device is too bad for this game.\nYou can\'t run Source Advanced.</string>
 
 	<!-- New About dialog stuff -->
 	<string name="about_links" translatable="false">
-		• CS:MOS <a href="https://discord.gg/bU9v7ndWqb">Discord Support</a> / <a href="https://discord.gg/jvWYVDMdhs">Community Hub</a>\n
+		• Welcome To Source Advanced\n
 	</string>
 	<string name="about_authors">
 		<b>Source Engine Android port made by:</b>\n
 		• nillerusr\n
 		• jusic\n
-		<b>CS:MOS made by:</b>\n
-		• BillFLX\n
-		<b>CS:MOS Updates made by:</b>\n
-		• PowerSiderS.X DARK (KiLiDARK)\n
-		• iQuit\n
-		• Seyro Flawless\n
+		<b>Source Advanced made by:</b>\n
+		• <a href="https://youtube.com/@moha_kun">PowerSiderS.X DARK (KiLiDARK)</a>\n
 	</string>
 	<string name="about_copyright">
 		<b><u>Not for commercial purposes.</u></b>\n

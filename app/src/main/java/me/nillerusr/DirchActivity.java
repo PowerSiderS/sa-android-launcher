@@ -19,7 +19,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.mohakun.csmos.R;
+import com.mohakun.cstrike.R;
 
 public class DirchActivity extends Activity implements OnTouchListener
 {

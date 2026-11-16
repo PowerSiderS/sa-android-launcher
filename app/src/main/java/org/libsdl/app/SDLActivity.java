@@ -64,7 +64,7 @@ import java.util.Locale;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.mohakun.csmos.R;
+import com.mohakun.cstrike.R;
 
 /**
     SDL Activity
